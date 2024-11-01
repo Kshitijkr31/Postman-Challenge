@@ -2033,3 +2033,5 @@
 | 2030 | Jyotshna Reddy [Jyotshna Reddy](https://www.linkedin.com/in/jyotshna-reddy)   |[Cerificate link](https://api.badgr.io/public/assertions/6LTYhRbWSyicqSDlSAxQrA?identity__email=jyotshnareddy2708%40gmail.com) | It was a great experience |
 | 2031 | Usama Mangi [Usama Mangi](https://www.linkedin.com/in/usama-mangi/)   |[Cerificate link](https://api.badgr.io/public/assertions/xYkKszwCTUO96er655UFTw?identity__email=usamapk7861%40gmail.com) | This was a great beginner friendly course. It was also explained brilliantly and in an easy way. |
 | 2032 | Asmi Saner [Asmi Saner](www.linkedin.com/in/asmi-s-9b0129308)   |[Cerificate link](https://api.badgr.io/public/assertions/9Pay0zzxTE2HaspsErzDGg?identity__email=asmisaner08%40gmail.com) | Amazing learning path! loved the hands-on experience!!|
+| 2023 | Kshitij Kumar [Kshitij Kumar](https://www.linkedin.com/in/kshitij-kumar-81b699204/)   |[Cerificate link](https://api.badgr.io/public/assertions/ImQJytnDTxWPFrCv6Hkl1w?identity__email=kshitijkumar3108%40gmail.com) | Amazing experience for mastering API interactions, simplifying testing, and enhancing collaboration! |
+
